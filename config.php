@@ -1,3 +1,3 @@
 <?php
 
-echo 'Arquivo de configrações';
+echo 'Mudança no Arquivo';
